@@ -1,0 +1,2 @@
+{"gold_id": "G-001", "type": "T-new", "destination": "knowledge/design_principles.md", "core_claim": "（例）ダイアログを閉じる導線は必ず 2 箇所以上用意する", "evidence_vtt_line": 100, "evidence_timecode": "00:05:00", "priority": "medium"}
+{"gold_id": "G-002", "type": "decision", "destination": "knowledge/design_decisions.jsonl", "core_claim": "（例）次回リリースでは A 案を採用する", "evidence_vtt_line": 500, "evidence_timecode": "00:22:30", "priority": "high"}
