@@ -1,4 +1,4 @@
-# claude-code-public-skills
+# claude-code-kit
 
 Claude Code 用の汎用スキル／コマンド 2 点を含む配布パッケージ。私用ドメインに依存しないジェネリック版として整備しており、任意のプロジェクトに導入できる。
 
